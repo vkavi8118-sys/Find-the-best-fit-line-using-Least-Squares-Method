@@ -43,9 +43,8 @@ RegisterNumber: 212225230133
 ```
 
 ## Output:
-<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/12d80683-52e6-4753-88aa-13642c8c568e" />
-<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/aadfa91e-e96a-452c-adb5-367855a08760" />
-
+<img width="901" height="631" alt="Screenshot 2026-04-24 141546" src="https://github.com/user-attachments/assets/c73e5470-8972-47a0-9a8b-37cba4cbab03" />
+<img width="877" height="730" alt="Screenshot 2026-04-24 141602" src="https://github.com/user-attachments/assets/e2b3a1b8-e774-4963-875b-64ec9a5ba475" />
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
